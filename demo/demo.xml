@@ -7,8 +7,7 @@
           </record>
 
           <record id="object1" model="academia.academia">
-            <field name="name">Object 1</field>
-            <field name="value">10</field>
+            
           </record>
 
           <record id="object2" model="academia.academia">

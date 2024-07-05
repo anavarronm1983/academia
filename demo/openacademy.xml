@@ -1,0 +1,8 @@
+<odoo>
+
+        <record model="openacademy" id="object0">
+            <field name="name">Object 1</field>
+            <field name="description">10</field>
+        </record>
+
+</odoo>
